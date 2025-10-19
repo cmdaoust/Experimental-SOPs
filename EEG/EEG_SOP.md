@@ -38,7 +38,7 @@
 ### 1.2 Prepare the Gel Syringes
 1. Fill syringes with gel.  
    ![Fig X](../images/EEG_FigX.png)  
-> **Helpful Hints**  
+> **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 >   
@@ -85,7 +85,7 @@
 
       
 - The sizes can be found on the label in the back of the cap.  
-> **Helpful Hints**  
+> **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -95,7 +95,7 @@
 #### 2.2.2 Prepare Mastoid Electrode Sites
 - Wipe behind the participant’s ears with an alcohol wipe.  
 - Dry off with a paper towel.
-> **Helpful Hints**  
+> **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -112,7 +112,7 @@
     <em>Figure X. Mastoid Electrode Placement.</em>
   </p>
 
-- **Helpful Hints**  
+- **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -146,7 +146,7 @@
 5. Spread the gel with a circular motion of the needle on the scalp, but do not overdo it. Too much gel can create “bridges” between electrodes.  
 6. Slowly retract the needle, injecting enough gel to fill any air pockets left by the needle.
 
-> **Helpful Hints**  
+> **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -161,7 +161,7 @@
 - The electrodes are numbered. Insert them in ascending order to avoid tangling.  
 - Click electrodes into aperture; if resistance is felt, add more gel.  
 
-> **Helpful Hints**  
+> **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -200,7 +200,7 @@
 - Poor DRL/CMS connections affect all electrodes.  
 - Stable, non-flickering electrodes are essential.
 
-> **Helpful Hints**  
+> **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -226,7 +226,7 @@
 
 ### 6.1 Disconnect Electrode Bundles
 - Push tabs and lift by base.  
-> **Helpful Hints**  
+> **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -236,7 +236,7 @@
 ### 6.2 Remove Cap and Electrodes
 - Unclip chinstrap.  
 - Remove electrodes by housing, not wire; pinch to unclip.  
-> **Helpful Hints**  
+> **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -263,7 +263,7 @@
 ### 7.3 Electrodes
 - Rinse in warm water, gently using fingers.  
 - Dry with paper towel.  
-> **Helpful Hints**  
+> **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -272,7 +272,7 @@
 
 ### 7.4 Cap
 - Wash in plastic tub with specialist soap. ![Fig X](../images/EEG_FigX.png)  
-> **Helpful Hints**  
+> **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
