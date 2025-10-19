@@ -257,7 +257,7 @@
 > </details>
 
 ### 7.4 Cap
-- Wash in plastic tub with special soap. ![Fig X](../images/EEG_FigX.png)  
+- Wash in plastic tub with specialist soap. ![Fig X](../images/EEG_FigX.png)  
 > **Helpful Hints**  
 > <details>
 > <summary>Click to expand</summary>
