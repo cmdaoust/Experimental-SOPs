@@ -43,7 +43,7 @@
 > <summary>Click to expand</summary>
 >   
 > - Whenever possible, use 412 syringes.  
-> - Make sure the gel has settled at the bottom of the electrode gel tube before transferring it into the syringe to prevent air bubbles. If you notice air pockets, tap the tube firmly on a hard surface or shake it gently to release them.  
+> -  To prevent air bubbles from entering the syringe, make sure the electrode gel has settled completely at the bottom of its tube before transferring it. If you notice air pockets in the gel tube, tap it firmly on a hard surface or shake it to release the trapped air before filling the syringe.
 > - Do not fill syringes completely to the top; otherwise, the gel will overflow when you insert the plunger.  
 > - Make sure to clean gel off the tip of the tube before and after filling the syringes to prevent them from getting blocked.  
 > </details>
