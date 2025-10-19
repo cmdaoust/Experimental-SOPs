@@ -4,16 +4,16 @@ This repository contains standard operating procedures (SOPs) for experimental s
 ## Contents
 
 ### EEG
-- [EEG](EEG/EEG_SOP.md) – covers cap fitting, electrode placement, gelling, data collection, and cleaning/maintenance.
+- [EEG Standard Operating Procedure](EEG/EEG_SOP.md) – covers cap fitting, electrode placement, gelling, data collection, and cleaning/maintenance.
 
 ### ECG
-- [ECG](ECG/ECG_SOP.md) – covers lead placement, data recording, and post-recording procedures.
+- [ECG Standard Operating Procedure](ECG/ECG_SOP.md) – covers lead placement, data recording, and post-recording procedures.
 
 ### EDA
-- [EDA](EDA/EDA_SOP.md) – covers sensor placement, data collection, and cleaning.
+- [EDA Standard Operating Procedure](EDA/EDA_SOP.md) – covers sensor placement, data collection, and cleaning.
 
 ### Respiratory Effort
-- [Respiratory Effort](Respiratory_Effort/Respiratory_Effort_SOP.md) – covers transducer setup, data collection, and cleaning.
+- [Respiratory Effort Standard Operating Procedure](Respiratory_Effort/Respiratory_Effort_SOP.md) – covers transducer setup, data collection, and cleaning.
 
 ### fMRI
-- [fMRI](fMRI/fMRI_SOP.md) – covers participant preparation, scanner setup, task presentation, and data management.
+- [fMRI Standard Operating Procedure](fMRI/fMRI_SOP.md) – covers participant preparation, scanner setup, task presentation, and data management.
