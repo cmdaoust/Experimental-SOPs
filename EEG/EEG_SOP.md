@@ -75,7 +75,7 @@
 #### 2.2.1 Determine Cap Size
 - Measure the participant’s head:  
   - **Circumference:** Place the tape just above the ears. ![Fig X](../images/EEG_FigX.png)  
-  - **Length:** Beginning at the nasion and ending at the inion. ![Fig X](../images/EEG_FigX.png)  
+  - **Length:** Beginning at the nasion and ending at the inion. ![Fig X](../images/EEG_Figure_Measurement.png)  
 - The sizes can be found on the label in the back of the cap.  
 > **Helpful Hints**  
 > <details>
@@ -96,7 +96,7 @@
 
 
 #### 2.2.3 Place Mastoid Electrodes
-- Place electrode on mastoid site by lining it up with the preauricular point and mastoid process. ![Fig X](../images/EEG_FigX.png)
+- Place electrode on mastoid site by lining it up with the preauricular point and mastoid process. ![Fig X](../images/EEG_Fig_Mastoid.png)
 
 - **Helpful Hints**  
 > <details>
