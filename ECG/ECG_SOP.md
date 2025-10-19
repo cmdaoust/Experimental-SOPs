@@ -58,7 +58,7 @@ If the participant has excess hair on the placement sites, ask them to clip a **
 <p align="center">
   <img src="../images/ECG_Fig_ElectrodePlacement.png" alt="Electrode Placement Sites" width="55%">
   <br>
-  <em>Figure X. Attaching the white lead and taping the wire loop.</em>
+  <em>Figure X. Electrode placement diagram for ECG.</em>
 </p>
 
 ---
