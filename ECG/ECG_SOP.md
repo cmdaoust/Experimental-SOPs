@@ -114,8 +114,7 @@ If the signal is still incorrect, try:
 ---
 
 ### Remove Electrodes
-- Instruct the participant to **unclip the lead wires**.  
-- Place each electrode lead on the **correctly labelled hook** for storage.  
+- Instruct the participant to **unclip the lead wires**.
 - Ask the participant to **remove the self-adhesive electrode patches**.  
 - Provide a **water-based wet wipe** so the participant can remove any residual gel or adhesive.
 
