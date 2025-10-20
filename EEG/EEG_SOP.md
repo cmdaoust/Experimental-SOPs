@@ -28,11 +28,11 @@
 
 | **Cap size**     | **Cap colour**  | **Cap measurement** |
 |:-----------------|:----------------|:--------------------|
-| Small            | 🟨 Yellow        | 50–54 cm            |
-| Small/Medium     | 🟥🟨 Red/Yellow  | 52–56 cm            |
-| Medium           | 🟥 Red           | 54–58 cm            |
-| Medium/Large     | 🟥🟦 Red/Blue    | 56–60 cm            |
-| Extra large      | 🟦 Blue          | 58–62 cm            |
+| Small            | 🟨 Yellow        | 50 – 54 cm            |
+| Small/Medium     | 🟥🟨 Red/Yellow  | 52 – 56 cm            |
+| Medium           | 🟥 Red           | 54 – 58 cm            |
+| Medium/Large     | 🟥🟦 Red/Blue    | 56 – 60 cm            |
+| Extra large      | 🟦 Blue          | 58 – 62 cm            |
 
 </div>
 
