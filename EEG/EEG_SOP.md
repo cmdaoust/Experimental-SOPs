@@ -32,10 +32,10 @@
 
 ## 1. Before the Participant Arrives
 
-### 1.1 Participant Preparation
+### Participant Preparation
 - It is best to ensure that the participant comes to the experiment without makeup, hair gel, mousse, or hair product in their hair.
 
-### 1.2 Prepare the Gel Syringes
+### Prepare the Gel Syringes
 1. Fill syringes with gel.  
    ![Fig X](../images/EEG_FigX.png)  
 > **Helpful Tips**  
