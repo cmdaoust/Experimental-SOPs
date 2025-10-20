@@ -78,7 +78,7 @@
   - **Length:** Beginning at the nasion and ending at the inion.
 
 <p align="center">
-    <img src="../images/EEG_Fig_Measurement.png" alt="Measuring head circumference and length" width="60%">
+    <img src="../images/EEG_Fig_Measurement.png" alt="Measuring head circumference and length" width="35%">
     <br>
     <em>Figure X. Measuring head circumference and length.</em>
   </p>
@@ -107,12 +107,12 @@
 - Place electrode on mastoid site by lining it up with the preauricular point and mastoid process.
 
 <p align="center">
-    <img src="../images/EEG_Fig_Mastoid.png" alt="Mastoid Electrode Placement" width="60%">
+    <img src="../images/EEG_Fig_Mastoid.png" alt="Mastoid Electrode Placement" width="35%">
     <br>
     <em>Figure X. Mastoid Electrode Placement.</em>
   </p>
 
-- **Helpful Tips**  
+**Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -146,7 +146,7 @@
 5. Spread the gel with a circular motion of the needle on the scalp, but do not overdo it. Too much gel can create “bridges” between electrodes.  
 6. Slowly retract the needle, injecting enough gel to fill any air pockets left by the needle.
 
-> **Helpful Tips**  
+**Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -161,7 +161,7 @@
 - The electrodes are numbered. Insert them in ascending order to avoid tangling.  
 - Click electrodes into aperture; if resistance is felt, add more gel.  
 
-> **Helpful Tips**  
+**Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -200,7 +200,7 @@
 - Poor DRL/CMS connections affect all electrodes.  
 - Stable, non-flickering electrodes are essential.
 
-> **Helpful Tips**  
+**Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -226,7 +226,8 @@
 
 ### 6.1 Disconnect Electrode Bundles
 - Push tabs and lift by base.  
-> **Helpful Tips**  
+
+**Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -236,7 +237,8 @@
 ### 6.2 Remove Cap and Electrodes
 - Unclip chinstrap.  
 - Remove electrodes by housing, not wire; pinch to unclip.  
-> **Helpful Tips**  
+
+**Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -262,8 +264,9 @@
 
 ### 7.3 Electrodes
 - Rinse in warm water, gently using fingers.  
-- Dry with paper towel.  
-> **Helpful Tips**  
+- Dry with paper towel.
+
+**Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
@@ -272,7 +275,8 @@
 
 ### 7.4 Cap
 - Wash in plastic tub with specialist soap. ![Fig X](../images/EEG_FigX.png)  
-> **Helpful Tips**  
+
+**Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
