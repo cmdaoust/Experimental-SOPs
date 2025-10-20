@@ -13,11 +13,13 @@ The researcher will gather the following equipment:
 
 ### Open Recording File
 If a template recording file for your experiment exists:  
-**Open Biopac → Open Graph File → `XXX_template.gtl`**
+**Open Biopac → Open graph template dromdis... → `template.gtl`**
 
 If this is the first time setting up:  
-**Open Biopac → Open Graph File → `XXX_template.gtl`.**  
-Ensure the correct recording channel is selected and that the recording time is set long enough for your session.
+**Open Biopac → Create empty graph
+In the toolbar at the top of the application click MP36 → Set Up Channels...
+Ensure the correct recording channel is selected (Electrocardiogram -EEG) and sampling rate is set to 1000hz
+In the top right corner, click Setupand → ensure that the aquisition time is set long enough for your session. If it isnt, Biopac will stop recording before your experiment is complete.
 
 ---
 
