@@ -9,14 +9,15 @@ The researcher will gather the following equipment:
 - BIOPAC isotonic electrode gel (GEL101A)
 - Water-based wet wipes
 
-### **Open Recording File**
-
+## Open Recording File
 If a template recording file for your experiment exists:  
-**Open Biopac → Open Graph File → `XXX_template.gtl`**
+**Open Biopac → Open graph template dromdis... → `template.gtl`**
 
 If this is the first time setting up:  
-**Open Biopac → Open Graph File → `XXX_template.gtl`**  
-Ensure the correct recording channel is selected and that the recording time is set long enough for your session.
+**Open Biopac → Create empty graph
+In the toolbar at the top of the application click MP36 → Set Up Channels...
+Ensure the correct recording channel is selected (Electrocardiogram -EEG) and sampling rate is set to 1000hz
+In the top right corner, click Setupand → ensure that the aquisition time is set long enough for your session. If it isnt, Biopac will stop recording before your experiment is complete.
 
 ---
 
@@ -41,17 +42,17 @@ Ensure the correct recording channel is selected and that the recording time is 
 ### **Electrode Placement**
 
 - Ask the participant to face the palm of their left hand toward the ceiling.  
-- Place the electrodes on the index and middle fingers of the participant’s hand.  
+- Place the electrodes on the index and middle fingers of the participant’s hand (Fig. 1).  
 - Secure the **BIOPAC SS57L lead wires** to the electrodes.  
 
 ### **Attaching EDA Leads**
 
 - Connect the EDA lead by pressing the side tabs and pushing the clip onto the metal surface of the electrode until it clicks securely into the divots.  
 - Ensure the **metal side of the clip faces down** against the electrode.  
-- Ensure the **red lead** is placed on the index finger and the **black lead** on the middle finger.
+- Ensure the **red lead** is placed on the index finger and the **black lead** on the middle finger (Fig. 1).
 
 <p align="center">
-  <img src="../images/EDA_Fig1.png" alt="EDA electrode placement" width="60%">
+  <img src="../images/EDA_Fig_ElectrodePlacement.png" alt="EDA electrode placement" width="60%">
   <br>
   <em>Figure 1. Correct placement of EDA electrodes on the non-dominant hand.</em>
 </p>
@@ -125,12 +126,12 @@ This can look like the trace is jumping between fixed levels instead of forming 
 When you see a smooth signal, you can do a final check for signal responsiveness.
 
 - Ask the participant to take **two sharp inhales through the nostrils.**  
-- A proper connection should show a clear **skin conductance response** in the trace (see Fig. X).  
+- A proper connection should show a clear **skin conductance response** in the trace (Fig. X).  
 
 **If no change is visible**, run through the steps outlined above until you are able to see a clear skin conductance response.
 
 <p align="center">
-  <img src="../images/EDA_Fig1.png" alt="Skin Conductance Response" width="60%">
+  <img src="../images/EDA_SCR.png" alt="Skin Conductance Response" width="40%">
   <br>
   <em>Figure X. Skin Conductance Response to sniff test.</em>
 </p>
