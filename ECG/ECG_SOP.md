@@ -85,12 +85,12 @@ Ensure the **metal side of the clip faces down** against the electrode.
 
 ### Start Recording
 - Press **‘Start Recording’** on the Biopac system.  
-- Verify that the live signal appears as expected (see Fig. X).
+- Verify that the live signal appears as expected (see Fig. 2).
 
 <p align="center">
   <img src="../images/ECG_Fig_Recording.png" alt="Example ECG signal" width="70%">
   <br>
-  <em>Figure X. Example of a clean ECG signal in Biopac.</em>
+  <em>Figure 2. Example of a clean ECG signal in Biopac.</em>
 </p>
 
 ---
@@ -126,11 +126,11 @@ If the signal is still incorrect, try:
 ---
 
 ### Filter and Save Data
-1. Open the data in **Biopac software**.  
+1. Save the unprocessed file using a clear, descriptive filename (e.g., `sub_001_raw`)..  
 2. Apply filters by navigating to:  
    **Transform → IIR → Low + High Bandpass**  
    - Set **Low cutoff:** 0.5 Hz  
    - Set **High cutoff:** 40 Hz  
-3. Save the processed file using a clear, descriptive filename (e.g., `XXX_raw`).
+3. Save the processed file using a clear, descriptive filename (e.g., `sub_001_filtered`).
 
 ---
