@@ -32,14 +32,8 @@ In the top right corner, click Setupand → ensure that the aquisition time is s
 ---
 
 ### Hair Trimming
-Show the participant the diagram outlining electrode placement sites (Fig. X).  
+Show the participant the diagram outlining electrode placement sites (Fig. 1).  
 If the participant has excess hair on the placement sites, ask them to clip a **2–3 inch radius** around the site using a disposable razor (this is very rarely necessary).
-
-<p align="center">
-  <img src="../images/ECG_ElectrodeSites.png" alt="ECG electrode placement diagram" width="60%">
-  <br>
-  <em>Figure X. Electrode placement diagram for ECG.</em>
-</p>
 
 ---
 
@@ -60,7 +54,7 @@ If the participant has excess hair on the placement sites, ask them to clip a **
 <p align="center">
   <img src="../images/ECG_Fig_ElectrodePlacement.png" alt="Electrode Placement Sites" width="55%">
   <br>
-  <em>Figure X. Electrode placement diagram for ECG.</em>
+  <em>Figure 1. Electrode placement diagram for ECG.</em>
 </p>
 
 ---
@@ -71,29 +65,18 @@ Demonstrate the attachment process to the participant:
 Show how to connect the ECG wire by pressing the side tabs and pushing the clip onto the metal surface of the electrode until it clicks securely into the divots.  
 Ensure the **metal side of the clip faces down** against the electrode.
 
----
-
 #### White Lead
-- Hand the participant the **white wire** and instruct them to feed it underneath their top and attach it to the electrode on their **shoulder**.  
+- Hand the participant the **white wire** and instruct them to feed it underneath their top and attach it to the electrode on their **shoulder** (Fig. 1).  
 - Ask the participant to form a small **loop in the ECG wire on their chest** and secure it with **medical tape**. This helps prevent tension on the lead and reduces the risk of the wire pulling on the electrode during the recording (Fig. X).  
 - Offer assistance if needed, as this electrode can be difficult for them to see. **Ask for permission** before providing physical assistance.
 
-<p align="center">
-  <img src="../images/ECG_LeadPlacement.png" alt="Attaching ECG white lead" width="55%">
-  <br>
-  <em>Figure X. Attaching the white lead and taping the wire loop.</em>
-</p>
-
----
-
 #### Black Lead
 - Give the participant the **black wire** and instruct them to connect it to the electrode **below the shoulder**.  
-- Repeat the wire loop and medical tape procedure (Fig. X).
+- Repeat the wire loop and medical tape procedure (Fig. 1).
 
 #### Red Lead
 - Provide the participant the **red wire** and instruct them to attach it to the electrode on the **opposite side of the lower abdomen or stomach area**.  
-- Repeat the wire loop and medical tape procedure (Fig. X).
-
+- Repeat the wire loop and medical tape procedure (Fig. 1).
 - Ask the participant to clip the electrode wires to their **trouser waistband** using the crocodile clip.
 
 ---
@@ -105,7 +88,7 @@ Ensure the **metal side of the clip faces down** against the electrode.
 - Verify that the live signal appears as expected (see Fig. X).
 
 <p align="center">
-  <img src="../images/ECG_LiveSignal.png" alt="Example ECG signal" width="70%">
+  <img src="../images/ECG_Fig_Recording.png" alt="Example ECG signal" width="70%">
   <br>
   <em>Figure X. Example of a clean ECG signal in Biopac.</em>
 </p>
@@ -147,7 +130,7 @@ If the signal is still incorrect, try:
 2. Apply filters by navigating to:  
    **Transform → IIR → Low + High Bandpass**  
    - Set **Low cutoff:** 0.5 Hz  
-   - Set **High cutoff:** 35 Hz  
+   - Set **High cutoff:** 40 Hz  
 3. Save the processed file using a clear, descriptive filename (e.g., `XXX_raw`).
 
 ---
