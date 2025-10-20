@@ -36,8 +36,14 @@
 - It is best to ensure that the participant comes to the experiment without makeup, hair gel, mousse, or hair product in their hair.
 
 ### Prepare the Gel Syringes
-1. Fill syringes with gel.  
-   ![Fig X](../images/EEG_FigX.png)  
+1. Fill syringes with gel (Fig x.).  
+
+  <p align="center">
+    <img src="../images/EEG_Fig_Syringes.png" alt="Filled Syringes" width="35%">
+    <br>
+    <em>Figure X. Filled Syringes.</em>
+  </p>
+  
 > **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
@@ -48,31 +54,36 @@
 > - Make sure to clean gel off the tip of the tube before and after filling the syringes to prevent them from getting blocked.  
 > </details>
 
-### 1.3 Check Equipment
+### Check Equipment
 - Make sure all electrodes are ordered and untangled.  
 - Make sure measuring tape and adhesive tape are within reach.  
 - Make sure the head cap you need is dry.  
 - You can speed-dry it with the hair dryer, but **only use cold air** so as not to damage the cap.
 
-### 1.4 Prepare Electrodes
+### Prepare Electrodes
 - Prepopulate the electrodes with adhesive rings.  
 - Make sure that the hole of the sticker aligns with the metal part of the electrode.  
-  ![Fig X](../images/EEG_FigX.png)
+
+  <p align="center">
+    <img src="../images/EEG_Fig_ElectrodeAdhesive.png" alt="Electrode Adhesives" width="35%">
+    <br>
+    <em>Figure X. Adhesive rings attached to electrodes.</em>
+  </p>
 
 ---
 
 ## 2. Upon Participant Arrival
 
-### 2.1 Participant Briefing and Consent
+###Participant Briefing and Consent
 - Explain the procedure to the participant.  
 - Give the participant plenty of time to read the information sheet and sign the consent form.  
 - Ask participants to remove hairbands, bobby pins, glasses, and any other facial or ear jewellery before beginning the experiment. Glasses can be put on again after capping. 
 
 ---
 
-### 2.2 Cap Fitting and Electrode Setup
+## Cap Fitting and Electrode Setup
 
-#### 2.2.1 Determine Cap Size
+#### Determine Cap Size
 - Measure the participant’s head:  
   - **Circumference:** Place the tape just above the ears. 
   - **Length:** Beginning at the nasion and ending at the inion.
@@ -92,7 +103,7 @@
 > - Always choose the smallest cap you can based on their head size. (For example, if the participant’s head circumference is x cm → use head cap x–x cm).  
 > </details>
 
-#### 2.2.2 Prepare Mastoid Electrode Sites
+#### Prepare Mastoid Electrode Sites
 - Wipe behind the participant’s ears with an alcohol wipe.  
 - Dry off with a paper towel.
 > **Helpful Tips**  
@@ -103,7 +114,7 @@
 > </details>
 
 
-#### 2.2.3 Place Mastoid Electrodes
+#### Place Mastoid Electrodes
 - Place electrode on mastoid site by lining it up with the preauricular point and mastoid process.
 
 <p align="center">
@@ -123,22 +134,28 @@
 > - Make sure you don't stick participant’s hair down.  
 > </details>
 
-#### 2.2.4 Fit the EEG Cap
+#### Fit the EEG Cap
 - Ask the participant to look up toward the ceiling and place the cap on their head.  
 - Hold the ear flaps and pull cap down, wiggling slightly side to side.  
 - Make sure you pull the cap down to really get it tight.  
 - Ask the participant to do up the chin strap while you hold the mastoids still.  
 - Then get the participant to pull their ears through.
 
-#### 2.2.5 Center and Align the Cap
-- Make sure the cap is properly centered. ![Fig X](../images/EEG_FigX.png)  
+#### Center and Align the Cap
+- Make sure the cap is properly centered. 
 - Use a measuring tape to ensure that the Cz (Vertex) is in the center of the head:  
   - Halfway between the nasion and inion  
   - Halfway between the ears
 
+  <p align="center">
+    <img src="../images/EEG_Fig_CapCentreling.png" alt="Centred Cap" width="35%">
+    <br>
+    <em>Figure x. Centreing the EEG Cap.</em>
+  </p>
+  
 ---
 
-### 2.3 Begin Gelling Electrodes
+### Begin Gelling Electrodes
 1. Carefully push the blunt needle through the electrode aperture until it reaches the participant’s scalp.  
 2. Gently move some hair to the side by pushing the tip of the needle side to side.  
 3. Lift the syringe slightly (otherwise the blunted needle will be covered by the skin and no gel can come out).  
@@ -157,7 +174,7 @@
 
 ---
 
-### 2.4 Attach Electrodes
+### Attach Electrodes
 - The electrodes are numbered. Insert them in ascending order to avoid tangling.  
 - Click electrodes into aperture; if resistance is felt, add more gel.  
 
@@ -176,10 +193,15 @@
 
 ---
 
-### 2.5 Connect Electrode Bundles to AD Box
+### Connect Electrode Bundles to AD Box
 - Face leads away from participant.  
 - Tape bundles to the table to prevent movement.  
-  ![Fig X](../images/EEG_FigX.png)
+
+  <p align="center">
+    <img src="../images/EEG_Fig_ADBox.png" alt="Bungles Connected to AD Box" width="35%">
+    <br>
+    <em>Figure X. Connect Bundles to AD box.</em>
+  </p>
 
 ---
 
@@ -188,17 +210,29 @@
 2. Navigate to **About ActiView → Set Up Configuration File → Start → Start File**.  
 3. Browse to your folder and choose a filename (e.g., MyStudy_SubXXX).  
 4. Confirm folder path.  
-5. Check battery status of AD box. ![Fig X](../images/EEG_FigX.png)
+5. Check battery status of AD box.
+
+ <p align="center">
+    <img src="../images/EEG_Fig_Battery.png" alt="AD bob Battery Check" width="35%">
+    <br>
+    <em>Figure X. Where to check AD box battery.</em>
+  </p>
 
 ---
 
 ## 4. Data Quality Checks
 - Switch to **Electrode Offset** tab.  
 - Set Displayed Range Scale to 50 µV.  
-- Click Reference → Free Choice → select electrodes for closer inspection ![Fig X](../images/EEG_FigX.png) .  
+- Click Reference → Free Choice → select electrodes for closer inspection.  
 - Ensure electrode offset is between -10 µV and +10 µV.  
 - Poor DRL/CMS connections affect all electrodes.  
 - Stable, non-flickering electrodes are essential.
+
+  <p align="center">
+    <img src="../images/EEG_Fig_PoorSignalQuality.png" alt="Poor quality signal" width="35%">
+    <br>
+    <em>Figure X. Examples of Poor Signal Quality.</em>
+  </p>
 
 **Helpful Tips**  
 > <details>
@@ -211,7 +245,13 @@
 
 - Faulty electrodes far outside [-10 µV, +10 µV] may need replacement. Note non-essential electrodes in session log if needed.
 
-- Final check: ActiView should resemble Figure x. ![Fig X](../images/EEG_FigX.png)
+- Final check: ActiView should resemble Figure x.
+
+  <p align="center">
+    <img src="../images/EEG_Fig_GoodSignalQuality.png" alt="Good and bad quality signal" width="35%">
+    <br>
+    <em>Figure X. Examples of Good Signal Quality.</em>
+  </p>
 
 ---
 
@@ -224,7 +264,7 @@
 
 ## 6. Post-Experiment
 
-### 6.1 Disconnect Electrode Bundles
+### Disconnect Electrode Bundles
 - Push tabs and lift by base.  
 
 **Helpful Tips**  
@@ -234,7 +274,7 @@
 > - Avoid lifting by wires to prevent damage.  
 > </details>
 
-### 6.2 Remove Cap and Electrodes
+### Remove Cap and Electrodes
 - Unclip chinstrap.  
 - Remove electrodes by housing, not wire; pinch to unclip.  
 
@@ -247,7 +287,7 @@
 > - Hang each bundle neatly after unclipping to prevent them from getting tangled.  
 > </details>
 
-### 6.3 Participant Clean-Up
+### Participant Clean-Up
 - Show participant to shower/sink.  
 - Provide towel and shampoo if needed.
 
@@ -255,14 +295,14 @@
 
 ## 7. Cleaning Equipment
 
-### 7.1 Syringes
+### Syringes
 - Remove excess gel; rinse thoroughly with warm water.  
 - Do not use soap.
 
-### 7.2 Protect AD Connectors from Water Damage
+### Protect AD Connectors from Water Damage
 - Cover connectors with sandwich bag; hang in an elevated position above the sink to avoid water entry ![Fig X](../images/EEG_FigX.png).
 
-### 7.3 Electrodes
+### Electrodes
 - Rinse in warm water, gently using fingers.  
 - Dry with paper towel.
 
@@ -273,7 +313,7 @@
 > - Work systematically to ensure all electrodes are cleaned (ascending order or by region).  
 > </details>
 
-### 7.4 Cap
+### Cap
 - Wash in plastic tub with specialist soap. ![Fig X](../images/EEG_FigX.png)  
 
 **Helpful Tips**  
