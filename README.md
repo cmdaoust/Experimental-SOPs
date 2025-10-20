@@ -17,7 +17,7 @@ This repository contains standard operating procedures (SOPs) for experimental s
 
 ### Biopac - Psychopy Trigger Code Integration
 - [Psychopy Trigger Setup](Psychopy_Trigger_Setup/PsychopyCode.md) – covers python code to sent triggers from stimulus PC to BIOPAC.
-- [USB TTL Module Setup](Psychopy_Trigger_Setup/TTL_Module.md) – covers hardware and stoftware setup for USB TTL Module from BlackBoxTooklit.
+- [Troubleshooting](Psychopy_Trigger_Setup/TTL_Module.md) – covers troubleshooting for the USB TTL Module from BlackBoxTooklit.
 
 ### fMRI
 - [fMRI Standard Operating Procedure](fMRI/fMRI_SOP.md) – covers participant preparation, scanner setup, task presentation, and data management.
