@@ -24,9 +24,19 @@
 1. Gather all materials in equipment list and prepare for session by filling syringe with gel and putting stickers on flat ECOG electrodes.  
 2. Measure the widest part of the participant’s head and select electrode cap based on size - for signal quality it is very important to have a snug fit, so always choose the smallest possible size whilst maintaining participant comfort.
    
-<p align="middle">
-  <img src="https://github.com/user-attachments/assets/365a90dc-deac-4595-87a5-84bdf551e76e" width="400" />
-</p>
+<div align="center">
+
+| **Cap size**     | **Cap colour**  | **Cap measurement** |
+|:-----------------|:----------------|:--------------------|
+| Small            | 🟨 Yellow        | 50–54 cm            |
+| Small/Medium     | 🟥🟨 Red/Yellow  | 52–56 cm            |
+| Medium           | 🟥 Red           | 54–58 cm            |
+| Medium/Large     | 🟥🟦 Red/Blue    | 56–60 cm            |
+| Extra large      | 🟦 Blue          | 58–62 cm            |
+
+</div>
+
+
 
 3. If rereferencing to the mastoids: Clean mastoids with alcohol wipe, put gel in flat electrode well, remove backing of electrode sticker and place electrodes on mastoids. Secure further with a strip of tape.  
 4. Fit EEG cap to participant's head, ensuring central electrode (A1 for ABC system, CZ for 10-20 system), is halfway between the front and back of the head (nasion to inion), as well as from side-to-side. Make sure the cap is **FIRMLY** against the head.
@@ -104,7 +114,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 
 ## 2. Upon Participant Arrival
 
-###Participant Briefing and Consent
+### Participant Briefing and Consent
 - Explain the procedure to the participant.  
 - Give the participant plenty of time to read the information sheet and sign the consent form.  
 - Ask participants to remove hairbands, bobby pins, glasses, and any other facial or ear jewellery before beginning the experiment. Glasses can be put on again after capping. 
