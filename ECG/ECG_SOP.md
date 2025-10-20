@@ -18,7 +18,7 @@ If a template recording file for your experiment exists:
 If this is the first time setting up:  
 **Open Biopac → Create empty graph
 In the toolbar at the top of the application click MP36 → Set Up Channels...
-Ensure the correct recording channel is selected (Electrocardiogram -EEG) and sampling rate is set to 1000hz
+Ensure the correct recording channel is selected (Electrodermal Activity - EDA) and sampling rate is set to 1000hz
 In the top right corner, click Setupand → ensure that the aquisition time is set long enough for your session. If it isnt, Biopac will stop recording before your experiment is complete.
 
 ---
