@@ -1,31 +1,61 @@
 # EEG Manual - Standard Operating Procedure (SOP)
 **Authors:** Carmen McClean-Daoust & Ellie Ambridge
 
+
+---
+
+## Equipment list
+- Flexible tape measure.
+- Skin friendly sticky tape.
+- Paper towel/roll/tissue.
+- Alcohol wipes.
+- Plastic ended syringes.
+- Electrode gel (signagel for BioSemi systems).
+- Electrode ECOG stickers.
+- Dry electrode caps.
+- Clean & dry electrode bundles (e.g. A: 1-32, B: 33-64, C: 65-97, D: 98-128.
+- Clean & dry flat ECOG electrodes (EXG1-8).
+
+
 ---
 
 ## Essential Steps (Brief Overview)
 
-1. Prepare gel syringes and ensure all equipment is ready.  
-2. Measure participant’s head and select appropriate EEG cap.  
-3. Place mastoid electrodes and secure with tape.  
-4. Fit EEG cap snugly and center Cz electrode.  
-5. Insert and gel scalp electrodes systematically.  
-6. Connect electrode bundles to AD box and start recording.  
-7. Monitor electrode offsets and adjust as needed.  
-8. End recording, remove electrodes/cap, and clean participant.  
-9. Clean equipment, electrodes, and cap thoroughly.  
+1. Gather all materials in equipment list and prepare for session by filling syringe with gel and putting stickers on flat ECOG electrodes.  
+2. Measure the widest part of the participant’s head and select electrode cap based on size - for signal quality it is very important to have a snug fit, so always choose the smallest possible size whilst maintaining participant comfort.
+   
+<p align="middle">
+  <img src="https://github.com/user-attachments/assets/365a90dc-deac-4595-87a5-84bdf551e76e" width="400" />
+</p>
 
+3. If rereferencing to the mastoids: Clean mastoids with alcohol wipe, put gel in flat electrode well, remove backing of electrode sticker and place electrodes on mastoids. Secure further with a strip of tape.  
+4. Fit EEG cap to participant's head, ensuring central electrode (A1 for ABC system, CZ for 10-20 system), is halfway between the front and back of the head (nasion to inion), as well as from side-to-side. Make sure the cap is **FIRMLY** against the head.
+7. Insert syringe into each electrode holder and insert gel systematically to around 3/4 full.  
+8. Connect electrode bundles and any external EXG electrodes to AD box and turn on.  
+9. Start signal quality check by selecting offsets tab on actiview. Ensure all channels are <+/-50mv, and not fluctuating. If high or unstable offsets, remove electrode, insert addition gel, check for wire tension, reinsert electrode and recheck offset.
+10. Next, check signal waveforms. For any noisy channels follow the above steps (channels can be noisy in offsets and not waveform, or vice-versa. Do electrode adjustments for each, separately).
+11. Conduct experiment, remove equipment in reverse order to setup, and handwash EEG equipment immediately following the session (electrodes - warm water only; cap - warm water and gentle detergent).
 ---
 
 ## Quick Guide: How to Get Clean Signals
 
-- Ensure CMS/DRL reference electrodes are correctly placed and have good contact.  
-- Apply sufficient gel under each electrode, avoiding air pockets.  
-- Gently wiggle electrodes and move hair to ensure proper contact.  
-- Check offsets in ActiView; critical electrodes first if time is limited.  
-- Minor deviations in non-essential electrodes are usually acceptable.  
-- Avoid over-gelling, which can create “bridges” between electrodes.  
+CAPS: 
+They need to fit tightly!!! Both in size but also in placement. Once the position of the cap has been established, grab either size of the cap (near the ears), and pull down firmly. Tell the participant that you are going to do this and make sure that you don't pull on any hairs in the process. 
 
+INSERTING GEL: 
+Move hair side-to-side with syringe, then ever so slightly lift away from the scalp before inserting gel in a smooth gradual process whilst pulling the syringe out of the electrode holder.  
+
+EXTERNAL ELECTRODES: 
+Use extra tape for securing any/all EXG flat electrodes.
+
+CHECKING CHANNEL QUALITY: 
+Before starting the experiment, ensure all channels are clean and stable. Firstly, check the offsets tab, aiming for around <+/-50mv, (not 10, this value is often incorrectly referenced and stems from EEG systems using impedance. This is not equivalent to offsets, which, according to the manufacturers, can produce clean recordings up to +/-100mv). 
+
+WIRE PLACEMENT: Try and put as little strain and stretch on the electrodes as possible. This includes, taping EXG electrode wires to participant's shoulders, taping electrode bundles to a desk or chair, and orentating electrode wires to 'flow' towards the AD box.
+
+GLOBAL NOISE
+If all channels look strange, the first thing to check is the CMS/DRL electrodes! These are critical for the entire recording.
+    
 ---
 
 # Extended Instructions
