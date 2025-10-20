@@ -52,7 +52,7 @@ If the participant has excess hair on the placement sites, ask them to clip a **
 - Ask the participant to place the electrodes according to the diagram provided.
 
 <p align="center">
-  <img src="../images/ECG_Fig_ElectrodePlacement.png" alt="Electrode Placement Sites" width="55%">
+  <img src="../images/ECG_Fig_ElectrodePlacement.png" alt="Electrode Placement Sites" width="30%">
   <br>
   <em>Figure 1. Electrode placement diagram for ECG.</em>
 </p>
