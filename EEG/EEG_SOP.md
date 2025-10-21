@@ -266,9 +266,9 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 - **Any setting changes do not affect how the data are recorded. This are changable for visualisaion purposes only**
 -  If using a reference, start by selecting this. The numbering is as following, 1-128 are the 32x4 electrode bundles, then 129-136 are the 8 EXG electrodes. In our lab, we used EXG1-4 for ECOG, and EXH5-6 for mastoids, so when collecting data we select reference 133+134 (hold control to select multiple channels).
 
- <p align="center">
-<img width="3930" height="2249" alt="Pictur" src="https://github.com/user-attachments/assets/b5ff5667-759b-475c-88e4-7222566983e4" />
- </p>
+
+<img width="3500" height="1850" alt="Pictur" src="https://github.com/user-attachments/assets/b5ff5667-759b-475c-88e4-7222566983e4" />
+
 
 
 
@@ -278,8 +278,8 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 - Stable, non-flickering electrodes are essential.
 - Any unused electrodes (e.g. not plugged in), will show maximum offset by default.
 
- <p align="center">
-<img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/306f00a8-1b3c-4bdf-aa53-37c84f7def5b" />
+<p align="center">
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/306f00a8-1b3c-4bdf-aa53-37c84f7def5b" />
  </p>
 
 
@@ -413,8 +413,8 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 ### Changing the AD Battery
 - When connecting the battery. Notice the hinge mechanism, which should first be attached at the top, and then pressed down so it clicks and is flat. Removing the clips is the opposite. You should unclip the bottom half first, then push the clip upwards slightly (no excessive force should be necessary), in order to release the battery from the AD box.
 - If possible, you should always have one battery plugged in, on charge, there is no risk of overcharging if left connected.
-   <p align="center">
-   
+
+  <p align="center">
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3f10a605-e311-4333-a15c-6537efc5bb57" /> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d53d0f70-a1b2-4815-9824-5e9f4c8ac895" /><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/72be7774-449b-4f85-9f03-2d7999a76c9a" />
   </p>
   
