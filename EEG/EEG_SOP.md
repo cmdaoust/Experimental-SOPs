@@ -181,7 +181,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 - Hold the ear flaps and pull cap down, wiggling slightly side to side.  
 - Make sure you pull the cap down to get it sitting firmly against the head.  
 - Ask the participant to do up the chin strap. while you hold the mastoids still.  
-- Ask the participant to poke their ears through the cap ear holes (if using mastoid electrodes, it is good to hold these still so they don't get dislodged).
+- Ask the participant to poke their ears through the cap ear holes (if using mastoid electrodes, it is good to hold these still so they don't get dislodged in the process).
 
 #### Center and Align the Cap
 - Make sure the cap is properly centered. 
@@ -263,7 +263,8 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 ---
 
 ## 4. Data Quality Checks
-- If using a reference, start by selecting this. The numbering is as following, 1-128 are the 32x4 electrode bundles, then 129-136 are the 8 EXG electrodes. In our lab, we used EXG1-4 for ECOG, and EXH5-6 for mastoids, so when collecting data we select reference 133+134 (hold control to select multiple channels).
+- **Any setting changes do not affect how the data are recorded. This are changable for visualisaion purposes only**
+-  If using a reference, start by selecting this. The numbering is as following, 1-128 are the 32x4 electrode bundles, then 129-136 are the 8 EXG electrodes. In our lab, we used EXG1-4 for ECOG, and EXH5-6 for mastoids, so when collecting data we select reference 133+134 (hold control to select multiple channels).
 
  <p align="center">
 <img width="3930" height="2249" alt="Pictur" src="https://github.com/user-attachments/assets/b5ff5667-759b-475c-88e4-7222566983e4" />
@@ -291,7 +292,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 > </details>
 
 
-- Left: Example of poor signal and offsets, Right: Example of good signal and offsets..
+- Left: Example of poor signal and offsets, Right: Example of good signal and offsets.
 
   <p align="center">
     <img src="../images/EEG_Fig_GoodSignalQuality.png" alt="Good and bad quality signal" width="35%">
@@ -309,7 +310,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
-> - Adding a trigger code to your script start the recording and stop recording ensures all data is accurately recorded (and not accidentally missed).
+> - Adding a trigger code to your script to start and stop recording ensures no data is accidentally missed.
 > </details>
 
 ---
@@ -350,8 +351,8 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 ### Protect the AD Connectors from Water Damage
 - Prior to any cleaning, and immediately after removing the electrodes from the participant’s cap, it is extremely important to cover the bundle connectors with a waterproof barrier e.g. zip-locked bag. This is to avoid any moisture from entering and damaging the connections.
 
- <p align="center">
-  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/29d4eca3-cd40-400b-9855-48294c25a6d4" />
+ <p align="center">    
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/29d4eca3-cd40-400b-9855-48294c25a6d4" />  
   </p>
 
 
@@ -359,7 +360,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 - Electrodes must be cleaned with **warm water only**.
 - Use a plastic bowl/bucket to place the electrodes in - the electrode tips must never come into contact with metal as this causes pollution of the Ag/AgCI (silver/silver chloride) pellets, increasing signal noise and premature wear.
 
- <p align="center">
+ <p align="center">    
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/b60377b9-2c79-4deb-bbea-43138c3e094b" />
   </p>
 
@@ -368,7 +369,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 - Hang to dry - Making sure electrode connectors are above the electrode ends to avoid any water ingress to connectors.
 - Electrode ends must not come into contact with metal at any point.
 
- <p align="center">
+ <p align="center">    
 <img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/52dedac0-ad8c-4aa9-a61a-49090f23e7d5" />
   </p>
 
@@ -390,12 +391,10 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 - Work systematically, e.g. by colour or number, to ensure you don't miss any.
 - To check if all the gel has been removed from the openings, look at whether there is a glossy reflection still in the hole (this is gel).
 - Hang cap to dry (wig stands work well and helps keep the cap shape).
-- - It is possible to use a hairdryer on the cap, if needed for the next participant.
+- It is possible to use a hairdryer on the cap, if needed for the next participant.
   
-   <p align="center">
-   
+   <p align="center">   
 <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/2df891f8-b5ee-4676-84b3-aa380cce6d4c" />
-
   </p>
   
 
