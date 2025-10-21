@@ -11,17 +11,17 @@
 - Alcohol wipes.
 - Plastic ended syringes.
 - Electrode gel (signagel for BioSemi systems).
-- Electrode ECOG stickers.
+- Flat electrode stickers for EXGs.
 - Dry electrode caps.
-- Clean & dry electrode bundles (e.g. A: 1-32, B: 33-64, C: 65-97, D: 98-128.
-- Clean & dry flat ECOG electrodes (EXG1-8).
+- Clean & dry electrode bundles (e.g. A: 1-32, B: 33-64, C: 65-97, D: 98-128, EXG1-8).
+
 
 
 ---
 
 ## Essential Steps (Brief Overview)
 
-1. Gather all materials in equipment list and prepare for session by filling syringe with gel and putting stickers on flat ECOG electrodes.  
+1. Gather all materials in equipment list and prepare for session by filling syringe with gel and putting stickers on flat EXG electrodes.  
 2. Measure the widest part of the participant’s head and select electrode cap based on size - for signal quality it is very important to have a snug fit, so always choose the smallest possible size whilst maintaining participant comfort.
    
 <div align="center">
