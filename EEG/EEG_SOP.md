@@ -42,7 +42,7 @@
 4. Fit EEG cap to participant's head, ensuring central electrode (A1 for ABC system, CZ for 10-20 system), is halfway between the front and back of the head (nasion to inion), as well as from side-to-side. Make sure the cap is **FIRMLY** against the head.
 7. Insert syringe into each electrode holder and insert gel systematically to around 3/4 full.  
 8. Connect electrode bundles and any external EXG electrodes to AD box and turn on.  
-9. Start signal quality check by selecting offsets tab on actiview. Ensure all channels are <+/-50mv, and not fluctuating. If high or unstable offsets, remove electrode, insert addition gel, check for wire tension, reinsert electrode and recheck offset.
+9. Start signal quality check by selecting offsets tab on actiview. Ensure all channels are <+/-50µV, and not fluctuating. If high or unstable offsets, remove electrode, insert addition gel, check for wire tension, reinsert electrode and recheck offset.
 10. Next, check signal waveforms. For any noisy channels follow the above steps (channels can be noisy in offsets and not waveform, or vice-versa. Do electrode adjustments for each, separately).
 11. Conduct experiment, remove equipment in reverse order to setup, and handwash EEG equipment immediately following the session (electrodes - warm water only; cap - warm water and gentle detergent).
 ---
@@ -59,11 +59,11 @@ EXTERNAL ELECTRODES:
 Use extra tape for securing any/all EXG flat electrodes.
 
 CHECKING CHANNEL QUALITY: 
-Before starting the experiment, ensure all channels are clean and stable. Firstly, check the offsets tab, aiming for around <+/-50mv, (not 10, this value is often incorrectly referenced and stems from EEG systems using impedance. This is not equivalent to offsets, which, according to the manufacturers, can produce clean recordings up to +/-100mv). 
+Before starting the experiment, ensure all channels are clean and stable. Firstly, check the offsets tab, aiming for around <+/-50µV, (not 10µV, this value is often incorrectly referenced and stems from EEG systems using impedance. This is not equivalent to offsets, which, according to the manufacturers, can produce clean recordings up to +/-100µV). 
 
 WIRE PLACEMENT: Try and put as little strain and stretch on the electrodes as possible. This includes, taping EXG electrode wires to participant's shoulders, taping electrode bundles to a desk or chair, and orentating electrode wires to 'flow' towards the AD box.
 
-GLOBAL NOISE
+GLOBAL NOISE:
 If all channels look strange, the first thing to check is the CMS/DRL electrodes! These are critical for the entire recording.
     
 ---
@@ -88,17 +88,18 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 > <details>
 > <summary>Click to expand</summary>
 >   
-> - Whenever possible, use 412 syringes.  
-> -  To prevent air bubbles from entering the syringe, make sure the electrode gel has settled completely at the bottom of its tube before transferring it. If you notice air pockets in the gel tube, tap it firmly on a hard surface or shake it to release the trapped air before filling the syringe.
+> - Syringes should only ever be plastic tipped! BioSemi active electrodes do not require scalp abrasion.  
+> - To prevent air bubbles from entering the syringe, tap the gel bottle on a hard surface to make it settle. 
+> - To fill the syringes, remove the plunger and put the end of the gel bottle inside the back of the syringe.
 > - Do not fill syringes completely to the top; otherwise, the gel will overflow when you insert the plunger.  
-> - Make sure to clean gel off the tip of the tube before and after filling the syringes to prevent them from getting blocked.  
+> - Make sure to clean gel off the tip of the tube before and after filling the syringes.  
 > </details>
 
 ### Check Equipment
 - Make sure all electrodes are ordered and untangled.  
 - Make sure measuring tape and adhesive tape are within reach.  
-- Make sure the head cap you need is dry.  
-- You can speed-dry it with the hair dryer, but **only use cold air** so as not to damage the cap.
+- Make sure the head cap you need is dry (if damp from previous session, you can gently dry the caps with a hairdryer).  
+
 
 ### Prepare Electrodes
 - Prepopulate the electrodes with adhesive rings.  
@@ -146,6 +147,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 #### Prepare Mastoid Electrode Sites
 - Wipe behind the participant’s ears with an alcohol wipe.  
 - Dry off with a paper towel.
+  
 > **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
@@ -177,9 +179,9 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 #### Fit the EEG Cap
 - Ask the participant to look up toward the ceiling and place the cap on their head.  
 - Hold the ear flaps and pull cap down, wiggling slightly side to side.  
-- Make sure you pull the cap down to really get it tight.  
-- Ask the participant to do up the chin strap while you hold the mastoids still.  
-- Then get the participant to pull their ears through.
+- Make sure you pull the cap down to get it sitting firmly against the head.  
+- Ask the participant to do up the chin strap. while you hold the mastoids still.  
+- Ask the participant to poke their ears through the cap ear holes (if using mastoid electrodes, it is good to hold these still so they don't get dislodged).
 
 #### Center and Align the Cap
 - Make sure the cap is properly centered. 
@@ -196,9 +198,9 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 ---
 
 ### Begin Gelling Electrodes
-1. Carefully push the blunt needle through the electrode aperture until it reaches the participant’s scalp.  
+1. Carefully push the plastic syringe end through the electrode aperture until it reaches the participant’s scalp.  
 2. Gently move some hair to the side by pushing the tip of the needle side to side.  
-3. Lift the syringe slightly (otherwise the blunted needle will be covered by the skin and no gel can come out).  
+3. Lift the syringe slightly (otherwise the syringe end will be covered by the skin and no gel can come out).  
 4. Use the nozzle to apply a small amount of gel.  
 5. Spread the gel with a circular motion of the needle on the scalp, but do not overdo it. Too much gel can create “bridges” between electrodes.  
 6. Slowly retract the needle, injecting enough gel to fill any air pockets left by the needle.
@@ -261,31 +263,35 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 ---
 
 ## 4. Data Quality Checks
-- Switch to **Electrode Offset** tab.  
-- Set Displayed Range Scale to 50 µV.  
-- Click Reference → Free Choice → select electrodes for closer inspection.  
-- Ensure electrode offset is between -10 µV and +10 µV.  
-- Poor DRL/CMS connections affect all electrodes.  
-- Stable, non-flickering electrodes are essential.
+- If using a reference, start by selecting this. The numbering is as following, 1-128 are the 32x4 electrode bundles, then 129-136 are the 8 EXG electrodes. In our lab, we used EXG1-4 for ECOG, and EXH5-6 for mastoids, so when collecting data we select reference 133+134 (hold control to select multiple channels).
 
-  <p align="center">
-    <img src="../images/EEG_Fig_PoorSignalQuality.png" alt="Poor quality signal" width="35%">
-    <br>
-    <em>Figure X. Examples of Poor Signal Quality.</em>
-  </p>
+ <p align="center">
+<img width="3930" height="2249" alt="Pictur" src="https://github.com/user-attachments/assets/b5ff5667-759b-475c-88e4-7222566983e4" />
+ </p>
+
+
+
+- Switch to **Electrode Offset** tab.  
+- SClick Reference → Free Choice. 
+- Look for electrode offset to be between -50 µV and +50 µV.  
+- Stable, non-flickering electrodes are essential.
+- Any unused electrodes (e.g. not plugged in), will show maximum offset by default.
+
+ <p align="center">
+<img width="1500" height="750" alt="image" src="https://github.com/user-attachments/assets/306f00a8-1b3c-4bdf-aa53-37c84f7def5b" />
+ </p>
+
+
 
 **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
 > 
-> - Reclick, add/remove gel, move hair, or wiggle electrode if offsets are off.  
-> - If the cap-label is not sticking out, it can distort signals ![Fig X](../images/EEG_FigX.png).  
-> - Minor deviations in non-critical electrodes are acceptable if youor time is limited.  
+> - Reclick, add/remove gel, move hair, or wiggle electrode if offsets are too high.  
 > </details>
 
-- Faulty electrodes far outside [-10 µV, +10 µV] may need replacement. Note non-essential electrodes in session log if needed.
 
-- Final check: ActiView should resemble Figure x.
+- Left: Example of poor signal and offsets, Right: Example of good signal and offsets..
 
   <p align="center">
     <img src="../images/EEG_Fig_GoodSignalQuality.png" alt="Good and bad quality signal" width="35%">
@@ -299,6 +305,12 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 1. Press **Pause** to start recording. “Saving” turns green.  
 2. At experiment end, click **Pause → Stop**.  
 3. Turn off AD box.
+
+**Helpful Tips**  
+> <details>
+> <summary>Click to expand</summary>
+> - Adding a trigger code to your script start the recording and stop recording ensures all data is accurately recorded (and not accidentally missed).
+> </details>
 
 ---
 
@@ -329,42 +341,110 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 
 ### Participant Clean-Up
 - Show participant to shower/sink.  
-- Provide towel and shampoo if needed.
+- Provide towel and shampoo if required.
 
 ---
 
 ## 7. Cleaning Equipment
 
+### Protect the AD Connectors from Water Damage
+- Prior to any cleaning, and immediately after removing the electrodes from the participant’s cap, it is extremely important to cover the bundle connectors with a waterproof barrier e.g. zip-locked bag. This is to avoid any moisture from entering and damaging the connections.
+
+ <p align="center">
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/29d4eca3-cd40-400b-9855-48294c25a6d4" />
+  </p>
+
+
+### Cleaning the Electrodes
+- Electrodes must be cleaned with **warm water only**.
+- Use a plastic bowl/bucket to place the electrodes in - the electrode tips must never come into contact with metal as this causes pollution of the Ag/AgCI (silver/silver chloride) pellets, increasing signal noise and premature wear.
+
+ <p align="center">
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/b60377b9-2c79-4deb-bbea-43138c3e094b" />
+  </p>
+
+- The gel should mostly dissolve with the warm water, but it is neccesaary to use your fingers to clean any remaining gel on the electrode ends.  
+- Very carefully dap dry the electrodes with a towel of paper towel.
+- Hang to dry - Making sure electrode connectors are above the electrode ends to avoid any water ingress to connectors.
+- Electrode ends must not come into contact with metal at any point.
+
+ <p align="center">
+<img width="250" height="300" alt="image" src="https://github.com/user-attachments/assets/52dedac0-ad8c-4aa9-a61a-49090f23e7d5" />
+  </p>
+
+**Helpful Tips**  
+> <details>
+> <summary>Click to expand</summary>
+> 
+> - You can drill small holes in a plastic bucket so you can have continually fresh water flowing as you clean the electrodes.
+> - You should place the electrode connector as far away from the water as possible to avoid accidental damage (e.g. put in higher shelf/cupboard).
+> - When moving with the electrodes, you can drape the bundles over your shoulders (like an electrode necklace) to prevent dragging or damage.  
+>   
+> </details>
+
+### Cleaning the Caps
+- Caps should be **hand washed only**, using warm water and a mild detergent.
+- Caps do not have to avoid metal.
+- Put some detergent and warm water on the cap and hand wash, mainly focussing on the webbed material.
+- Use a small brush (pipe cleaning brushes work well), to clean within each individual electrode holder.
+- Work systematically, e.g. by colour or number, to ensure you don't miss any.
+- To check if all the gel has been removed from the openings, look at whether there is a glossy reflection still in the hole (this is gel).
+- Hang cap to dry (wig stands work well and helps keep the cap shape).
+- - It is possible to use a hairdryer on the cap, if needed for the next participant.
+  
+   <p align="center">
+   
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/2df891f8-b5ee-4676-84b3-aa380cce6d4c" />
+
+  </p>
+  
+
+
 ### Syringes
-- Remove excess gel; rinse thoroughly with warm water.  
-- Do not use soap.
+- Put any remaining gel back in the eletrode gel tube (it is quite expensive so minimising waste is a good idea).
+- Rinse empty syringes thoroughly with warm water.
+- Leave to air dry with the plunger and casing separated.   
+  
+  
+## Technical Sheet
 
-### Protect AD Connectors from Water Damage
-- Cover connectors with sandwich bag; hang in an elevated position above the sink to avoid water entry ![Fig X](../images/EEG_FigX.png).
+### BioSemi Website
+- https://www.biosemi.com/index.htm: The manufactorers website has lots of useful information, particularly their 'forum' section where BioSemi users can ask questions and the manufacturers respond.
 
-### Electrodes
-- Rinse in warm water, gently using fingers.  
-- Dry with paper towel.
+### Changing the AD Battery
+- When connecting the battery. Notice the hinge mechanism, which should first be attached at the top, and then pressed down so it clicks and is flat. Removing the clips is the opposite. You should unclip the bottom half first, then push the clip upwards slightly (no excessive force should be necessary), in order to release the battery from the AD box.
+- If possible, you should always have one battery plugged in, on charge, there is no risk of overcharging if left connected.
+   <p align="center">
+   
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3f10a605-e311-4333-a15c-6537efc5bb57" /> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d53d0f70-a1b2-4815-9824-5e9f4c8ac895" /><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/72be7774-449b-4f85-9f03-2d7999a76c9a" />
+  </p>
+  
 
-**Helpful Tips**  
-> <details>
-> <summary>Click to expand</summary>
-> 
-> - Work systematically to ensure all electrodes are cleaned (ascending order or by region).  
-> </details>
+### CM Blue Light Blinking
+- On the front of the AD box, if the Blue LED is blinking, then all power to the AD-box is shut down and the active electrodes will not be able to measure anything.
+- This could be caused by: kinked wires, gel inside connectors, or no CMS/DRL connection.
 
-### Cap
-- Wash in plastic tub with specialist soap. ![Fig X](../images/EEG_FigX.png)  
+ <p align="center">
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/877a4315-a666-4f77-89b4-a331b0f27018" />
+  </p>
 
-**Helpful Tips**  
-> <details>
-> <summary>Click to expand</summary>
-> 
-> - Use brush to poke through electrode holes.  
-> - Track which electrodes you’ve cleaned.  
-> </details>
 
-- Hang cap to dry; if needed for next participant, use cold-air hairdryer only.  
+### The Bucket Test - Checking for Faulty Electrodes
+- Fill a glass or plastic bowl or plastic bucket (no metal) with tap water and add a teaspoon of table salt (NaCl).
+- Connect a CMS/DRL cord to the front of the AD-box, or connect a P32 electrode set with integrated CMS/DRL to the "A" SCSI connector on the top of the AD-box.
+- Now first submerge only the CMS and DRL electrodes into the water. The Blue LED should now turn on. If the Blue LED turns off (blinking) then most likely the CMS/DRL electrodes are defect.
+- Now submerge the offending electrode(s) into the water, one by one and observe the Blue LED.
+- If there are any kinked wires, then moving/bending the electrodes and wires, will reveal them quicker.
+- If the Blue LED turns off, then you have found the problematic electrode(s).
 
+
+### ActiRead
+- Downloadedable from the BioSemi website (https://www.biosemi.com/download.htm).
+- ActiRead is a dedicated file reader that can be used on personal computer to check your recorded .bdf files.
+- The user interface is setup in a similar fasion to the ActiView programme used during data aquisition (you can only view 16 channels at a time in ActiRead).
+- This is particularly useful as a first step of data cleaning.
+ <p align="center">
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/5bff0e46-6500-4dfd-ba57-40cef97c87b6" />
+  </p>
 
 ---
