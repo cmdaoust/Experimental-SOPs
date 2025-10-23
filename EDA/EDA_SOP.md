@@ -31,7 +31,7 @@ In the top right corner, click Setupand → ensure that the aquisition time is s
 ### **Electrode Inspection**
 
 - Peel the backing off the BIOPAC EL503 electrode patch and inspect the electrode.  
-- If the electrode appears dry, add a very small drop of Spectra 360 gel to the patch.
+- If the electrode appears dry, add a very small drop of isotonic gel to the patch.
 
 > **Helpful Hints**  
 > <details>
@@ -177,7 +177,7 @@ When applying the tape, check with the participant that it is not too tight — 
 
 1. Save the unprocessed file using a clear, descriptive filename (e.g., `sub_001_raw`).  
 2. Apply filters by navigating to:  
-   **Transform → IIR → Low Bandpass**  
+   **Transform → Digitan -> IIR → Low Bandpass**  
    - Set **Low cutoff:** 10 Hz  
 3. Save the processed file using a clear, descriptive filename (e.g., `sub_001_filtered`).
 
