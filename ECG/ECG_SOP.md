@@ -16,10 +16,10 @@ If a template recording file for your experiment exists:
 **Open Biopac → Open graph template from dist... → `template.gtl`**
 
 If this is the first time setting up:  
-**Open Biopac → Create empty graph
+**Open Biopac → Create empty graph**
 In the toolbar at the top of the application click MP36 → Set Up Channels...
 Ensure the correct recording channel is selected (Electrocardiogram - ECG) and sampling rate is set to 1000hz
-In the top right corner, click Setupand → ensure that the aquisition time is set long enough for your session. If it isnt, Biopac will stop recording before your experiment is complete.
+In the top right corner, click Setup and → ensure that the aquisition time is set long enough for your session. If it isnt, Biopac will stop recording before your experiment is complete.
 
 ---
 
@@ -124,7 +124,7 @@ If the signal is still incorrect, try:
 ### Filter and Save Data
 1. Save the unprocessed file using a clear, descriptive filename (e.g., `participantID_raw`)..  
 2. Apply filters by navigating to:  
-   **Transform → IIR → Low + High Bandpass**  
+   **Transform → Digital Filter → IIR → Bandpass Low + High**  
    - Set **Low cutoff:** 0.5 Hz  
    - Set **High cutoff:** 35 Hz  
 3. Save the processed file using a clear, descriptive filename (e.g., `participantID_filtered`).
