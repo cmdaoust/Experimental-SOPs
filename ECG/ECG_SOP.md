@@ -13,7 +13,7 @@ The researcher will gather the following equipment:
 
 ### Open Recording File
 If a template recording file for your experiment exists:  
-**Open Biopac → Open graph template dromdis... → `template.gtl`**
+**Open Biopac → Open graph template from dist... → `template.gtl`**
 
 If this is the first time setting up:  
 **Open Biopac → Create empty graph
@@ -66,17 +66,14 @@ Show how to connect the ECG wire by pressing the side tabs and pushing the clip 
 Ensure the **metal side of the clip faces down** against the electrode.
 
 #### White Lead
-- Hand the participant the **white wire** and instruct them to feed it underneath their top and attach it to the electrode on their **shoulder** (Fig. 1).  
-- Ask the participant to form a small **loop in the ECG wire on their chest** and secure it with **medical tape**. This helps prevent tension on the lead and reduces the risk of the wire pulling on the electrode during the recording (Fig. X).  
+- Hand the participant the **white wire** and instruct them to feed it underneath their top and attach it to the electrode on their **shoulder** (Fig. 1).   
 - Offer assistance if needed, as this electrode can be difficult for them to see. **Ask for permission** before providing physical assistance.
 
 #### Black Lead
 - Give the participant the **black wire** and instruct them to connect it to the electrode **below the shoulder**.  
-- Repeat the wire loop and medical tape procedure (Fig. 1).
 
 #### Red Lead
 - Provide the participant the **red wire** and instruct them to attach it to the electrode on the **opposite side of the lower abdomen or stomach area**.  
-- Repeat the wire loop and medical tape procedure (Fig. 1).
 - Ask the participant to clip the electrode wires to their **trouser waistband** using the crocodile clip.
 
 ---
@@ -125,11 +122,11 @@ If the signal is still incorrect, try:
 ---
 
 ### Filter and Save Data
-1. Save the unprocessed file using a clear, descriptive filename (e.g., `sub_001_raw`)..  
+1. Save the unprocessed file using a clear, descriptive filename (e.g., `participantID_raw`)..  
 2. Apply filters by navigating to:  
    **Transform → IIR → Low + High Bandpass**  
    - Set **Low cutoff:** 0.5 Hz  
    - Set **High cutoff:** 35 Hz  
-3. Save the processed file using a clear, descriptive filename (e.g., `sub_001_filtered`).
+3. Save the processed file using a clear, descriptive filename (e.g., `participantID_filtered`).
 
 ---
