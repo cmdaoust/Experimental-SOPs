@@ -8,7 +8,7 @@ Gather the following equipment:
 
 ### **Respiration Belt Setup**
 
-1. Run the strap through the side buckles on the transducer, ensuring the self-adhering (Velcro® style) side of the strap is facing upward.  
+1. Run the strap through the side buckles on the transducer, ensuring the self-adhering (Velcro style) side of the strap is facing upward.  
 2. Flip the tip of the strap back over the buckle so it adheres to the rest of the belt (see Fig. 1).  
 
 <p align="center">
@@ -20,11 +20,13 @@ Gather the following equipment:
 ### **Open Recording File**
 
 If a template recording file for your experiment exists:  
-**Open Biopac → Open Graph File → `XXX_template.gtl`**
+**Open Biopac → Open graph file from disk → `template.gtl`**
 
 If this is the first time setting up:  
-**Open Biopac → Open Graph File → `XXX_template.gtl`**  
-Ensure the correct recording channel is selected and that the recording time is set long enough for your session.
+**Open Biopac → Create empty graph**
+In the toolbar at the top of the application click MP36 → Set Up Channels...
+Ensure the correct recording channel is selected
+In the top right corner, click Setup and → ensure that the aquisition time is set long enough for your session. If it isnt, Biopac will stop recording before your experiment is complete.
 
 ---
 
@@ -77,7 +79,7 @@ Ensure the correct recording channel is selected and that the recording time is 
 
 ### **1. Stop the Recording**
 
-- Press **“Stop”** on the Biopac system (see Fig. X).
+- Press **“Stop”** on the Biopac system.
 
 ---
 
@@ -88,11 +90,11 @@ Ensure the correct recording channel is selected and that the recording time is 
 
 ### **3. Filter and Save Data**
 
-1. Save the unprocessed file using a clear, descriptive filename (e.g., `sub_001_raw`).  
+1. Save the unprocessed file using a clear, descriptive filename (e.g., `participantID_raw`).  
 2. Apply filters by navigating to:  
-   **Transform → IIR → Low Bandpass**  
+   **Transform → Digital Filter → IIR → Low**  
    - Set **Low cutoff:** 1 Hz  
-3. Save the processed file using a clear, descriptive filename (e.g., `sub_001_filtered`).
+3. Save the processed file using a clear, descriptive filename (e.g., `participantID_filtered`).
 
 ---
 
