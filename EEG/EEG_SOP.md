@@ -76,14 +76,9 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 - It is best to ensure that the participant comes to the experiment without makeup, hair gel, mousse, or hair product in their hair.
 
 ### Prepare the Gel Syringes
-1. Fill syringes with gel (Fig x.).  
+<p>1. Fill syringes with gel.</p>
+<img src="../images/EEG_Syringes.png" alt="Filled Syringes" width="15%" style="margin-left: 40px;">
 
-  <p align="center">
-    <img src="../images/EEG_Fig_Syringes.png" alt="Filled Syringes" width="35%">
-    <br>
-    <em>Figure X. Filled Syringes.</em>
-  </p>
-  
 > **Helpful Tips**  
 > <details>
 > <summary>Click to expand</summary>
@@ -240,18 +235,39 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 - Tape bundles to the table to prevent movement.  
 
   <p align="center">
-    <img src="../images/EEG_Fig_ADBox.png" alt="Bungles Connected to AD Box" width="35%">
+    <img src="../images/EEG_Fig_ADBox.png" alt="Bundles Connected to AD Box" width="35%">
     <br>
     <em>Figure X. Connect Bundles to AD box.</em>
   </p>
 
 ---
 
-## 3. Computer Setup
+## 3. Starting the Recording ##
+
+When you’re ready to begin recording the EEG signal, follow these steps:
+
 1. Open ActiView software.  
-2. Navigate to **About ActiView → Set Up Configuration File → Start → Start File**.  
-3. Browse to your folder and choose a filename (e.g., MyStudy_SubXXX).  
-4. Confirm folder path.  
+2. Navigate to **About ActiView → Set Up Configuration File → Start → Start File**.
+<p align="left">
+    <img src="../images/EEG_Fig_startfile.png"  width="20%">
+  </p>
+Click the Start File button located in the top-right corner of the screen.
+3. Select the appropriate electrode set you’re using, then click OK. You may see an error message regarding the file path - this is normal. You’ll then be prompted to > choose where to save your data.
+4. The EEG signals will now appear on the screen, but recording has not yet started - as indicated by the red **Not Saving** indicator in the top-right corner.
+<p align="left">
+    <img src="../images/EEG_Fig_Notsaving.png"  width="20%">
+  </p>
+5. To start recording, click the pink Paused button. The Not Saving label should change to Saving, indicating that data is now being recorded.
+<p align="left">
+    <img src="../images/EEG_Fig_Saving.png"  width="20%">
+  </p>
+
+  **Helpful Tips**  
+> <details>
+> <summary>Click to expand</summary>
+> - To double-check the recording is being saved, open the folder where you’re saving the recording - you should see a `.BDF` file being created there.  
+> </details>
+ 
 5. Check battery status of AD box.
 
  <p align="center">
@@ -266,23 +282,24 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 - **Any setting changes do not affect how the data are recorded. This are changable for visualisaion purposes only**
 -  If using a reference, start by selecting this. The numbering is as following, 1-128 are the 32x4 electrode bundles, then 129-136 are the 8 EXG electrodes. In our lab, we used EXG1-4 for ECOG, and EXH5-6 for mastoids, so when collecting data we select reference 133+134 (hold control to select multiple channels).
 
-
-<img width="3500" height="1850" alt="Pictur" src="https://github.com/user-attachments/assets/b5ff5667-759b-475c-88e4-7222566983e4" />
-
-
-
-
+ <p align="left">
+    <img src="https://github.com/user-attachments/assets/b5ff5667-759b-475c-88e4-7222566983e4" alt="AD bob Battery Check" width="100%">
+    <br>
+    <em></em>
+  </p>
+  
 - Switch to **Electrode Offset** tab.  
-- SClick Reference → Free Choice. 
+- Click Reference → Free Choice. 
 - Look for electrode offset to be between -50 µV and +50 µV.  
 - Stable, non-flickering electrodes are essential.
 - Any unused electrodes (e.g. not plugged in), will show maximum offset by default.
 
-<p align="center">
-<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/306f00a8-1b3c-4bdf-aa53-37c84f7def5b" />
- </p>
-
-
+<p align="right">
+    <img src="https://github.com/user-attachments/assets/306f00a8-1b3c-4bdf-aa53-37c84f7def5b" alt="Electrode Offsets" width="90%">
+    <br>
+    <em></em>
+  </p>
+  
 
 **Helpful Tips**  
 > <details>
