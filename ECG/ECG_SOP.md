@@ -70,7 +70,7 @@ Ensure the **metal side of the clip faces down** against the electrode.
 - Offer assistance if needed, as this electrode can be difficult for them to see. **Ask for permission** before providing physical assistance.
 
 #### Black Lead
-- Give the participant the **black wire** and instruct them to connect it to the electrode **below the shoulder**.  
+- Give the participant the **black wire** and instruct them to connect it to the electrode **on the the lower abdomen, directly below the shoulder**.  
 
 #### Red Lead
 - Provide the participant the **red wire** and instruct them to attach it to the electrode on the **opposite side of the lower abdomen or stomach area**.  
@@ -95,7 +95,7 @@ Ensure the **metal side of the clip faces down** against the electrode.
 ### Troubleshooting Poor Signals
 If the recording does not display correctly, check the following:  
 - Ensure all electrode leads are in the **correct position**.  
-- Confirm that each electrode is **fully pushed into place** (see Fig. X).  
+- Confirm that each electrode is **fully pushed into place**. If the metal nub on the electrode patch isn't sitting comfortably in the groove on the clip you won't get a clean signal.  
 
 If the signal is still incorrect, try:  
 - Attaching **new electrodes**.  
@@ -106,7 +106,7 @@ If the signal is still incorrect, try:
 ## Post-Recording Procedure and Data Processing
 
 ### Stop the Recording
-- Press **“Stop”** on the Biopac system (see Fig. X).
+- Press **“Stop”** on the Biopac system.
 
 ---
 
@@ -125,8 +125,8 @@ If the signal is still incorrect, try:
 1. Save the unprocessed file using a clear, descriptive filename (e.g., `participantID_raw`)..  
 2. Apply filters by navigating to:  
    **Transform → Digital Filter → IIR → Bandpass Low + High**  
-   - Set **Low cutoff:** 0.5 Hz  
-   - Set **High cutoff:** 35 Hz  
+   - Set **Low cutoff:** as appropriate 
+   - Set **High cutoff:**  as appropriate 
 3. Save the processed file using a clear, descriptive filename (e.g., `participantID_filtered`).
 
 ---
