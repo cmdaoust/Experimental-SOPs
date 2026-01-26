@@ -31,13 +31,8 @@ In the top right corner, click Setup and ensure that the aquisition time is set 
 ### **Electrode Inspection**
 
 - Peel the backing off the BIOPAC EL503 electrode patch and inspect the electrode.  
-- If the electrode appears dry, add a very small drop of isotonic gel to the patch.
+- If the electrode appears dry, add isotonic gel to the patch - working the gel into the patch - either with your finger or by applying it via a syringe- will improve signal quality.
 
-> **Helpful Hints**  
-> <details>
-> <summary>Click to expand</summary>
-> - Only add a very small amount of gel to the electrode (if needed). Excessive gel will cause poor signal.
-> </details>
 
 ### **Electrode Placement**
 
