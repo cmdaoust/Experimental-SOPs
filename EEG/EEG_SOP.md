@@ -1,4 +1,4 @@
-# EEG Manual - Standard Operating Procedure (SOP)
+# EEG Manual - Standard Operating Procedure (SOP) - Actiview Biosemi 128-Channel System
 **Authors:** Carmen McClean-Daoust & Ellie Ambridge
 
 
