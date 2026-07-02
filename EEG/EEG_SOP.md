@@ -77,7 +77,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 
 ### Prepare the Gel Syringes
 <p>1. Fill syringes with gel.</p>
-<img src="../images/EEG_Syringes.png" alt="Filled Syringes" width="15%" style="margin-left: 40px;">
+<img src="../images/EEG_Syringes.png" alt="Filled Syringes" width="30%" style="margin-left: 40px;">
 
 > **Helpful Tips**  
 > <details>
@@ -101,9 +101,9 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 - Make sure that the hole of the sticker aligns with the metal part of the electrode.  
 
   <p align="center">
-    <img src="../images/EEG_Fig_ElectrodeAdhesive.png" alt="Electrode Adhesives" width="35%">
+    <img src="../images/EEG_stickers.png" alt="Electrode Adhesives" width="35%">
     <br>
-    <em>Figure X. Adhesive rings attached to electrodes.</em>
+    <em>Adhesive rings to attach to electrodes - hole should line up with grey centre of electrode contact.</em>
   </p>
 
 ---
@@ -127,7 +127,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 <p align="center">
     <img src="../images/EEG_Fig_Measurement.png" alt="Measuring head circumference and length" width="35%">
     <br>
-    <em>Figure X. Measuring head circumference and length.</em>
+    <em> Measuring head circumference and length.</em>
   </p>
 
       
@@ -136,7 +136,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 > <details>
 > <summary>Click to expand</summary>
 > 
-> - Always choose the smallest cap you can based on their head size. (For example, if the participant’s head circumference is x cm → use head cap x–x cm).  
+> - Always choose the smallest cap you can based on their head size whilst confirming the participant is comfortable. (For example, if the participant’s head circumference is 53 cm → begin by using head cap 50–54 cm).  
 > </details>
 
 #### Prepare Mastoid Electrode Sites
@@ -157,7 +157,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 <p align="center">
     <img src="../images/EEG_Fig_Mastoid.png" alt="Mastoid Electrode Placement" width="35%">
     <br>
-    <em>Figure X. Mastoid Electrode Placement.</em>
+    <em>Mastoid Electrode Placement.</em>
   </p>
 
 **Helpful Tips**  
@@ -174,22 +174,11 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 #### Fit the EEG Cap
 - Ask the participant to look up toward the ceiling and place the cap on their head.  
 - Hold the ear flaps and pull cap down, wiggling slightly side to side.  
-- Make sure you pull the cap down to get it sitting firmly against the head.  
+- Make sure you pull the cap down to get it sitting firmly against the head.
+- Center the cap - Use a measuring tape to ensure that the Cz/A1 electrode (Vertex) is in the center of the head (halfway between nasion/inion and equal left and right). 
 - Ask the participant to do up the chin strap. while you hold the mastoids still.  
 - Ask the participant to poke their ears through the cap ear holes (if using mastoid electrodes, it is good to hold these still so they don't get dislodged in the process).
 
-#### Center and Align the Cap
-- Make sure the cap is properly centered. 
-- Use a measuring tape to ensure that the Cz (Vertex) is in the center of the head:  
-  - Halfway between the nasion and inion  
-  - Halfway between the ears
-
-  <p align="center">
-    <img src="../images/EEG_Fig_CapCentreling.png" alt="Centred Cap" width="35%">
-    <br>
-    <em>Figure x. Centreing the EEG Cap.</em>
-  </p>
-  
 ---
 
 ### Begin Gelling Electrodes
@@ -232,13 +221,7 @@ If all channels look strange, the first thing to check is the CMS/DRL electrodes
 
 ### Connect Electrode Bundles to AD Box
 - Face leads away from participant.  
-- Tape bundles to the table to prevent movement.  
-
-  <p align="center">
-    <img src="../images/EEG_Fig_ADBox.png" alt="Bundles Connected to AD Box" width="35%">
-    <br>
-    <em>Figure X. Connect Bundles to AD box.</em>
-  </p>
+- Tape bundles to the table or participant shoulder to prevent movement.  
 
 ---
 
@@ -273,7 +256,7 @@ Click the Start File button located in the top-right corner of the screen.
  <p align="center">
     <img src="../images/EEG_Fig_Battery.png" alt="AD bob Battery Check" width="35%">
     <br>
-    <em>Figure X. Where to check AD box battery.</em>
+    <em> Where to check AD box battery.</em>
   </p>
 
 ---
@@ -314,7 +297,7 @@ Click the Start File button located in the top-right corner of the screen.
   <p align="center">
     <img src="../images/EEG_Fig_GoodSignalQuality.png" alt="Good and bad quality signal" width="35%">
     <br>
-    <em>Figure X. Examples of Good Signal Quality.</em>
+    <em>Examples of Good Signal Quality.</em>
   </p>
 
 ---
@@ -352,7 +335,7 @@ Click the Start File button located in the top-right corner of the screen.
 > <details>
 > <summary>Click to expand</summary>
 > 
-> - Twist electrodes gently into position so you can use the plastic base as leverage ![Fig X](../images/EEG_FigX.png) .  
+> - Twist electrodes gently into position so you can use the plastic base as leverage.  
 > - Drape bundles over shoulder to prevent dragging.  
 > - Hang each bundle neatly after unclipping to prevent them from getting tangled.  
 > </details>
